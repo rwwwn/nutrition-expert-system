@@ -73,7 +73,7 @@ Then submit a pull request.
 
 ## 🙏 Acknowledgments
 
-- Dr. Amina Salhi — For supervision and guidance.
+- Dr. Amina Salhi — For guidance and feedback throughout the development process.
  
 - Team Members:
  
