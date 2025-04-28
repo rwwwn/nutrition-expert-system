@@ -35,7 +35,7 @@ cd nutrition-expert-system
 ## ▶️ Usage
 ```bash
 ; Load the system
-(load "YES.clp")
+(load "nutritionexpertsystem.clp")
 
 ; Initialize the system
 (reset)
@@ -48,6 +48,7 @@ Follow the prompts to enter your personal information and receive your personali
 ## ⚠️ System Limitations
 
  • Single input allowed per field (health condition, fitness goal, allergy).
+ 
  • Recommendations are based on rule-based logic and do not replace medical advice.
 
 ## 🤝 Contributing
