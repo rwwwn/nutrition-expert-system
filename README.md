@@ -33,7 +33,7 @@ You can download CLIPS from [CLIPS official website](http://www.clipsrules.net/)
 ```bash
 git clone https://github.com/rwwwn/nutrition-expert-system.git
 ```
-# Navigate to the directory
+### Navigate to the directory
 ```bash
 cd nutrition-expert-system
 ```
