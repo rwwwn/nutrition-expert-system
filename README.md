@@ -25,15 +25,28 @@ Maintaining optimal nutrition is crucial for overall health and well-being. This
 
 ## 💻 Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/rwwwn/nutrition-expert-system.git
+**Before you begin**:  
+Make sure that CLIPS is installed on your system.  
+You can download CLIPS from [CLIPS official website](http://www.clipsrules.net/) and follow the installation instructions.
 
+### Clone the repository
+```bash
+git clone https://github.com/rwwwn/nutrition-expert-system.git
+```
 # Navigate to the directory
+```bash
 cd nutrition-expert-system
 ```
+Then manually open your CLIPS environment.
+
+(Launching CLIPS depends on your operating system. It is not a terminal command.)
+
+Once CLIPS is opened, you can load and run the system as described below.
+
 ## ▶️ Usage
-```bash
+Inside CLIPS, type the following commands
+
+```clips
 ; Load the system
 (load "nutritionexpertsystem.clp")
 
