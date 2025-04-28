@@ -54,7 +54,9 @@ Follow the prompts to enter your personal information and receive your personali
 ## 🤝 Contributing
 
 Contributions are welcome!
+
 Steps:
+
 ```bash
 # Fork the repository
 
