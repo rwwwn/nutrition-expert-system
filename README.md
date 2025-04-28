@@ -73,11 +73,15 @@ Then submit a pull request.
 
 ## 🙏 Acknowledgments
 
- • Dr. Amina Salhi — For supervision and guidance.
- • Team Members:
- • Rawan Albaraiki
- • Amal Alshehri
- • Ameera Duleem
- • Lyan Alshewaier
- • Resources:
+- Dr. Amina Salhi — For supervision and guidance.
+ 
+- Team Members:
+ 
+- Rawan Albaraiki
+- Amal Alshehri
+- Ameera Duleem
+- Lyan Alshewaier
+  
+- Resources:
+  
 Inspiration from nutritional sciences and expert system development studies.
