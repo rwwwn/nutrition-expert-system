@@ -77,9 +77,11 @@ Contributions are welcome to enhance the system’s capabilities. To contribute:
 🙏 Acknowledgments
 
  • Dr. Amina Salhi For guidance and feedback throughout the development process.
+ 
  • Team Members: 
  - Rawan Albaraiki
  - Amal Alshehri
  - Ameera Duleem
- - Lyan Alshewaier 
+ - Lyan Alshewaier
+   
  • Resources: Inspiration drawn from various nutritional studies and expert systems literature.
