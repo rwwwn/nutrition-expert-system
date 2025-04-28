@@ -17,11 +17,11 @@ Maintaining optimal nutrition is crucial for overall health and well-being. This
 
 ## 📂 Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [System Limitations](#system-limitations)
-- [Contributing](#contributing)
-- [Acknowledgments](#acknowledgments)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [System Limitations](#-system-limitations)
+- [Contributing](#-contributing)
+- [Acknowledgments](#-acknowledgments)
 
 ## 💻 Installation
 
@@ -37,9 +37,9 @@ git clone https://github.com/rwwwn/nutrition-expert-system.git
 ```bash
 cd nutrition-expert-system
 ```
-Then manually open your CLIPS environment.
-
-(Launching CLIPS depends on your operating system. It is not a terminal command.)
+**Important:**
+After cloning, you must manually open your CLIPS environment.
+(Launching CLIPS depends on your operating system and is not a terminal command.)
 
 Once CLIPS is opened, you can load and run the system as described below.
 
@@ -86,15 +86,15 @@ Then submit a pull request.
 
 ## 🙏 Acknowledgments
 
-- Dr. Amina Salhi — For guidance and feedback throughout the development process.
+- **Dr. Amina Salhi** — For guidance and feedback throughout the development process.
  
-- Team Members:
+- **Team Members:**
  
 - Rawan Albaraiki
 - Amal Alshehri
 - Ameera Duleem
 - Lyan Alshewaier
   
-- Resources:
+- **Resources:**
   
 Inspiration from nutritional sciences and expert system development studies.
