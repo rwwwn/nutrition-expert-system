@@ -32,7 +32,7 @@ git clone https://github.com/rwwwn/nutrition-expert-system.git
 # Navigate to the directory
 cd nutrition-expert-system
 
-▶️ Usage
+## ▶️ Usage
 
 ; Load the system
 (load "YES.clp")
@@ -45,12 +45,12 @@ cd nutrition-expert-system
 
 Follow the prompts to enter your personal information and receive your personalized nutrition advice.
 
-⚠️ System Limitations
+## ⚠️ System Limitations
 
  • Single input allowed per field (health condition, fitness goal, allergy).
  • Recommendations are based on rule-based logic and do not replace medical advice.
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 Steps:
@@ -67,7 +67,7 @@ git push origin feature/YourFeature
 
 Then submit a pull request.
 
-🙏 Acknowledgments
+## 🙏 Acknowledgments
 
  • Dr. Amina Salhi — For supervision and guidance.
  • Team Members:
