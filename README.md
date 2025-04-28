@@ -31,9 +31,9 @@ git clone https://github.com/rwwwn/nutrition-expert-system.git
 
 # Navigate to the directory
 cd nutrition-expert-system
-
+```
 ## ▶️ Usage
-
+```bash
 ; Load the system
 (load "YES.clp")
 
@@ -42,7 +42,7 @@ cd nutrition-expert-system
 
 ; Run the system
 (run)
-
+```
 Follow the prompts to enter your personal information and receive your personalized nutrition advice.
 
 ## ⚠️ System Limitations
@@ -54,6 +54,7 @@ Follow the prompts to enter your personal information and receive your personali
 
 Contributions are welcome!
 Steps:
+```bash
 # Fork the repository
 
 # Create a new branch
@@ -64,7 +65,7 @@ git commit -m "Add YourFeature"
 
 # Push to GitHub
 git push origin feature/YourFeature
-
+```
 Then submit a pull request.
 
 ## 🙏 Acknowledgments
