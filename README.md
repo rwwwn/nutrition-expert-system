@@ -21,9 +21,13 @@ Maintaining optimal nutrition is crucial for overall health and well-being. This
 📂 Table of Contents
 
  • Installation
+ 
  • Usage
+ 
  • System Limitations
+ 
  • Contributing
+ 
  • Acknowledgments
 
 💻 Installation
